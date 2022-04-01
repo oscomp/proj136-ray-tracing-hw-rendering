@@ -1,5 +1,5 @@
 # proj136-ray-tracing-hw-rendering
-使用OpenGL或Vulkan实现光线追踪的硬件渲染
+UOS光线追踪在GPU中的实现
 
 # 光线追踪
 
